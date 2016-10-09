@@ -1,0 +1,23 @@
+{
+  "name": "tictactie",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhatcher/abc123.git"
+  },
+  "author": "Liam Hatcher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhatcher/abc123/issues"
+  },
+  "homepage": "https://github.com/lhatcher/abc123#readme",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
