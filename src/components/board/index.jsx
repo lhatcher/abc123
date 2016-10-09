@@ -1,6 +1,7 @@
 import React from 'react';
 
-import styles from './style.scss';
+// import styles from './style.scss';
+require('./style.scss');
 
 export default class Board extends React.Component {
   constructor(props) {
